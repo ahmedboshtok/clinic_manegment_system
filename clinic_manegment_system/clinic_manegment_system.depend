@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1692317922 source:d:\c\clinic_manegment_system\admin_mode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"admin_mode.h"
+
+1692317922 d:\c\clinic_manegment_system\admin_mode.h
+
+1692317974 source:d:\c\clinic_manegment_system\app.c
+	<stdio.h>
+	<stdlib.h>
+	"admin_mode.h"
+	"app.h"
+
+1692317147 d:\c\clinic_manegment_system\app.h
+
+1692317244 source:d:\c\clinic_manegment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin_mode.h"
+	"user_mode.h"
+	"app.h"
+	"lib.h"
+
+1692302409 d:\c\clinic_manegment_system\lib.h
+
+1692317666 source:d:\c\clinic_manegment_system\user_mode.c
+	<stdio.h>
+	<stdlib.h>
+	"admin_mode.h"
+	"user_mode.h"
+	"lib.h"
+
+1692315842 d:\c\clinic_manegment_system\user_mode.h
+
